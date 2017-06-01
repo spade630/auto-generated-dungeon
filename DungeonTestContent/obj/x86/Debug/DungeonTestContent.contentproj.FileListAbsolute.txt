@@ -1,0 +1,2 @@
+C:\Users\rinya630\Documents\Visual Studio 2010\Projects\DungeonTest\DungeonTest\DungeonTestContent\obj\x86\Debug\DungeonTestContent.contentprojResolveAssemblyReference.cache
+C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTestContent\obj\x86\Debug\DungeonTestContent.contentprojResolveAssemblyReference.cache

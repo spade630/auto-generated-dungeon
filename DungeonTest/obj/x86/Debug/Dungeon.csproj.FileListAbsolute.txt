@@ -1,0 +1,10 @@
+C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\bin\x86\Debug\Content\GameThumbnail.xnb
+C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\bin\x86\Debug\Content\player.xnb
+C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\bin\x86\Debug\Content\Dungeon.xnb
+C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\bin\x86\Debug\Content\DownStairs.xnb
+C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\bin\x86\Debug\DungeonTest.exe
+C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\bin\x86\Debug\DungeonTest.pdb
+C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\obj\x86\Debug\Dungeon.csprojResolveAssemblyReference.cache
+C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\obj\x86\Debug\DungeonTest.exe
+C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\obj\x86\Debug\DungeonTest.pdb

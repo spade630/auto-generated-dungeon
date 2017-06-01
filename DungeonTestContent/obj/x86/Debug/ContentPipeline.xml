@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GameThumbnail.png</Source>
+      <Name>GameThumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\bin\x86\Debug\Content\GameThumbnail.xnb</Output>
+      <Time>2013-12-24T19:39:42.4223953+09:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2014-01-03T18:18:30.9150249+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Dungeon.png</Source>
+      <Name>Dungeon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\bin\x86\Debug\Content\Dungeon.xnb</Output>
+      <Time>2014-01-03T22:59:34.1389693+09:00</Time>
+    </Item>
+    <Item>
+      <Source>DownStairs.png</Source>
+      <Name>DownStairs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\bin\x86\Debug\Content\DownStairs.xnb</Output>
+      <Time>2014-01-05T22:31:04.6840482+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTestContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTestContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\rinya630\Desktop\DungeonTest\DungeonTest\DungeonTest\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-06-15T11:37:17.1707134+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
